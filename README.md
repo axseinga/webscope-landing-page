@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [See my code]()
-- Live Site URL: [Check it out here]()
+- Solution URL: [See my code](https://github.com/axseinga/webscope-landing-page)
+- Live Site URL: [Check it out here](https://axseinga-webscope-landing-page.netlify.app/)
 
 ## My process
 
